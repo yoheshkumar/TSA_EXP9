@@ -2,7 +2,7 @@
 ### Date: 
 
 ### AIM:
-Implementation of ARIMA model using python
+To Implement ARIMA model using python
 ### ALGORITHM:
 1. Explore the dataset
 2. Check for stationarity of time series
