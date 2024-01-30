@@ -1,20 +1,19 @@
-# EX.NO.09         IMPLEMENTATION OF ARIMA MODEL
+# EX.NO.09        A project on Time series analysis on weather forecasting using ARIMA model 
 ### Date: 
 
 ### AIM:
-To Implement ARIMA model using python
+To Create a project on Time series analysis on weather forecasting using ARIMA model in  Python and compare with other models.
 ### ALGORITHM:
-1. Explore the dataset
-2. Check for stationarity of time series
-time series plot
-ACF plot and PACF plot
-ADF test
-Transform to stationary: differencing
+1. Explore the dataset of weather 
+2. Check for stationarity of time series time series plot
+   ACF plot and PACF plot
+   ADF test
+   Transform to stationary: differencing
 3. Determine ARIMA models parameters p, q
 4. Fit the ARIMA model
 5. Make time series predictions
-Auto-fit the ARIMA model
-6. Evaluate model predictions
+6. Auto-fit the ARIMA model
+7. Evaluate model predictions
 ### PROGRAM:
 
 ### OUTPUT:
